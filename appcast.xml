@@ -3,11 +3,11 @@
   <channel>
     <title>HL Nexus Updates</title>
     <item>
-      <title>v0.9.8</title>
-      <pubDate>Sun, 22 Feb 2026 05:48:34 GMT</pubDate>
-      <sparkle:version>0.9.8</sparkle:version>
-      <enclosure url="https://github.com/MattFayuk/HL_Nexus-releases/releases/download/v0.9.8/Setup_HL_Nexus_v0.9.8.exe"
-                 length="60936294"
+      <title>v0.9.9</title>
+      <pubDate>Sun, 22 Feb 2026 05:54:07 GMT</pubDate>
+      <sparkle:version>0.9.9</sparkle:version>
+      <enclosure url="https://github.com/MattFayuk/HL_Nexus-releases/releases/download/v0.9.9/Setup_HL_Nexus_v0.9.9.exe"
+                 length="60941835"
                  sparkle:os="windows"
                  type="application/octet-stream" />
     </item>
