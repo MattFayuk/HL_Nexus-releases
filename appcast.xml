@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>HL Nexus Updates</title>
+    <item>
+      <title>v0.9.1</title>
+      <pubDate>Sun, 22 Feb 2026 00:00:00 GMT</pubDate>
+      <sparkle:version>0.9.1</sparkle:version>
+      <enclosure url="https://github.com/MattFayuk/HL_Nexus-releases/releases/download/v0.9.1/Setup_HL_Nexus_v0.9.1.exe"
+                 length="60928260"
+                 sparkle:os="windows"
+                 type="application/octet-stream" />
+    </item>
+  </channel>
+</rss>
